@@ -1,5 +1,5 @@
-
-console.log("main.js is loaded!")// Variable declarations
+// This is my first JavaScript code!
+console.log("Hello World");
 
 let name = "Christine";
 let age = 24;

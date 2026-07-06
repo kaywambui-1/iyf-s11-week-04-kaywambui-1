@@ -1,4 +1,6 @@
-// Variable declarations
+
+console.log("main.js is loaded!")// Variable declarations
+
 let name = "Christine";
 let age = 24;
 const birthYear = 2002;

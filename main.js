@@ -27,3 +27,15 @@ console.log("my age is:", age);
 console.log("Am I a student?", isStudent);
 console.log("My favorite colors are:", favoriteColors);
 console.log("Today's date is:", today);
+
+
+const myInt = 5;
+const myFloat = 6.667;
+myInt;
+myFloat;
+typeof myInt; 
+typeof myFloat;
+
+const lotsOfDecimal = 1.7665849587;
+lotsOfDecimalPlaces = lotsOfDecimal.toFixed(2);
+twoDecimalPlaces;

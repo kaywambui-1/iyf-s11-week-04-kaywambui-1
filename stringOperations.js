@@ -1,5 +1,5 @@
-let firstName = "John";
-let lastName = "Doe";
+let firstName = "Christinr";
+let lastName = "Wambui";
 
 // Concatenation
 let fullName = firstName + " " + lastName;

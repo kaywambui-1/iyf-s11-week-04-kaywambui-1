@@ -36,6 +36,3 @@ myFloat;
 typeof myInt; 
 typeof myFloat;
 
-const lotsOfDecimal = 1.7665849587;
-lotsOfDecimalPlaces = lotsOfDecimal.toFixed(2);
-twoDecimalPlaces;

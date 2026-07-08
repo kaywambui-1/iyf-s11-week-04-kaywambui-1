@@ -1,4 +1,3 @@
-let age = 24;
 //approximate age calculator
 let ageInDays = age * 365;
 ageInHours = ageInDays * 24;

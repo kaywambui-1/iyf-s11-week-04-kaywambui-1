@@ -1,4 +1,4 @@
-let firstName = "Christinr";
+let firstName = "Christine";
 let lastName = "Wambui";
 
 // Concatenation

@@ -36,8 +36,8 @@ function getDayName(dayNumber) {
 }
 
 console.log(getDayName(0)); // Output: Sunday
-console. log(getDayName(1)); // Output: Monday
-console.loh(getDayName(7)); // Output: Invalid day
+console.log(getDayName(1)); // Output: Monday
+console.log(getDayName(7)); // Output: Invalid day
 
 
 // Exercise 3: Loops
@@ -48,10 +48,10 @@ for (let i = 0; i < 5; i++) {
 }
 
 // While loop
-let count = 0;
-while (count < 5) {
-    console.log(count);
-    count++;
+let loopcount = 0;
+while (loopcount < 5) {
+    console.log(loopcount);
+    loopcount++;
 }
 
 // For...of (arrays)

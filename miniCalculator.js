@@ -27,6 +27,10 @@ function calculate(num1, operator, num2) {
             return multiply(num1, num2);
     case "/":
             return divide(num1, num2);
+    case "%":
+            return num1 % num2;
+    case "**":
+            return num1 ** num2;
         default:
             return "Invalid operator";
     }

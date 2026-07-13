@@ -9,6 +9,10 @@ function findLargestNumber(numbers) {
     return largest;
 }
 
+const numbers = [10, 25, 8, 50, 15]
+console.log(findLargestNumber(numbers))
+
+// using reduce
 
 function findLargestWithReduce(arr) {
     return arr.reduce((largest, current) => {
@@ -18,5 +22,5 @@ function findLargestWithReduce(arr) {
 
 
 
-const numbers - [3, 7,2, 9, 5];
-console.log("largest(loop): ",)
+const numbers = [3, 7,2, 9, 5];
+console.log("Largest (reduce):"findLargestWithReduce(numbers));
